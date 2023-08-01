@@ -1,16 +1,13 @@
+import {Alert} from './Alert/Alert'
+import {GlobalStyle} from '../Global.styled'
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
-  );
-};
+    <>
+        <GlobalStyle/>
+        <Alert type='error'/>
+        <Alert type='success'/>
+        <Alert type='warning'/>
+    </>
+  )
+}
