@@ -6,6 +6,7 @@
   --warning: orange;
   --success: green;
   --error: red;
+  --grey: rgb(215, 207, 201);
 }
 
 body {
