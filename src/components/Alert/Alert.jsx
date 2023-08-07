@@ -8,6 +8,6 @@ export function Alert({type}) {
     )
 }
 
-Alert.prototype = {
+Alert.propTypes = {
     type: PropTypes.oneOf(['warning', 'error', 'success'])
 }

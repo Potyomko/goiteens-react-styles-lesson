@@ -12,6 +12,8 @@ const theme = {
     success: 'green',
     error: 'red',
     grey: 'grey',
+    bgColorR: 'rgb(215, 207, 201)',
+    select: 'rgb(255, 104, 84)',
   }
 }
 
