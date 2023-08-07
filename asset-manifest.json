@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goiteens-react-styles-lesson/static/css/main.bef6729e.css",
-    "main.js": "/goiteens-react-styles-lesson/static/js/main.776fd3f7.js",
+    "main.css": "/goiteens-react-styles-lesson/static/css/main.d516eb76.css",
+    "main.js": "/goiteens-react-styles-lesson/static/js/main.b7ec0b2f.js",
     "index.html": "/goiteens-react-styles-lesson/index.html",
-    "main.bef6729e.css.map": "/goiteens-react-styles-lesson/static/css/main.bef6729e.css.map",
-    "main.776fd3f7.js.map": "/goiteens-react-styles-lesson/static/js/main.776fd3f7.js.map"
+    "main.d516eb76.css.map": "/goiteens-react-styles-lesson/static/css/main.d516eb76.css.map",
+    "main.b7ec0b2f.js.map": "/goiteens-react-styles-lesson/static/js/main.b7ec0b2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bef6729e.css",
-    "static/js/main.776fd3f7.js"
+    "static/css/main.d516eb76.css",
+    "static/js/main.b7ec0b2f.js"
   ]
 }
